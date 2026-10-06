@@ -1,30 +1,24 @@
-### Hi there! I'm Pidoxy. 👋🏾
+# Hi, I'm Emmanuel (Pidoxy) 👋
 
-## Pidoxy 👤
-I am Emmanuel Idoko - Pidoxy.
+AI/ML engineer and researcher in Lagos, Nigeria. I work on clinical AI, medical imaging, computer vision and retrieval systems, and I build software at HabariPay (GTCO). I also founded AidCare, a clinical decision-support platform.
 
-### Who am I?
-- The builder of things, the thinker of ideas, Product Developer
-- curiosity or creativity
+## Research
 
-### Technology Stacks
-- Language: Javascript, Python, C
-- Frameworks: Node, Express, React, Next, Typescript
-- DBMS: PostgreSQL, MongoDB
-- Cloud: AWS, GCP, Azure, Docker, Terraform, Pulumi...
+- **SharpXR**: structure-aware denoising for pediatric chest X-rays. MIRASOL Workshop, MICCAI 2025 · [paper](https://arxiv.org/abs/2508.08518) · [code](https://github.com/ileri-oluwa-kiiye/SharpXR)
+- **VAMAE**: vessel-aware masked autoencoders for OCT angiography. ICPR 2026 · [arXiv](https://arxiv.org/abs/2604.06583)
+- **When Retrieval Hurts**: retrieval-induced hallucination in chest X-ray report generation (submitted) · baseline pipeline in [RGCA](https://github.com/pidoxy/RGCA)
 
-## <u>How to Contact Me</u>
+## Selected projects
 
-I am also available and open to contact on major social media channels and emails.
+- [Virtue Foundation Intelligence Platform](https://github.com/pidoxy/hacknation): LangGraph multi-agent analysis of 797 Ghana facilities. 2nd place, Databricks × Hack-Nation 2026
+- [Amala Atlas](https://github.com/gdg-lagos/amala-atlas): winner, GDG Lagos Amala Hackathon (open source)
+- [RadWatch](https://github.com/pidoxy/RadWatch): progression-aware chest X-ray triage (ACVSS 2026 hackathon)
+- [PheraCAM](https://github.com/pidoxy/pheraCAM): edge face recognition. 1st runner-up, HackLab Nigeria 2022
 
-- Gmail: [Pidoxy's Mail](mailto:eemmanuel.idoko@gmail.com)
-- Twitter: [Pidoxy](https://twitter.com/pidoxy_)
-- Website: https://pidoxy-dev.netlify.app/
+## Recognition
 
+ACVSS 2026 full grant (1 of 31 from 312) · NHEF Scholar · Jim Ovia Scholar · GTCO Squad Hackademy Scholar
 
-<!-- <a href="https://github.com/pidoxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heisdeku&theme=nord&show_icons=true&count_private=true&line_height=40" />
-</a> -->
-<!-- <a href="https://github.com/pidoxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisdeku&theme=nord&langs_count=8" />
-</a> -->
+## Links
+
+[Website](https://pidoxy.com) · [LinkedIn](https://www.linkedin.com/in/emmanuelidoko/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=hHEK0h0AAAAJ) · [Hugging Face](https://huggingface.co/Pidoxy) · [X](https://x.com/pidoxy_)
