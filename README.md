@@ -1,4 +1,4 @@
-# Hi, I'm Emmanuel (Pidoxy) 👋
+# Hi, I'm Emmanuel Idoko (Pidoxy) 👋
 
 AI/ML engineer and researcher in Lagos, Nigeria. I work on clinical AI, medical imaging, computer vision and retrieval systems, and I build software at HabariPay (GTCO). I also founded AidCare, a clinical decision-support platform.
 
