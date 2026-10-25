@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Idoko (Pidoxy) 👋
 
-Software engineer and AI researcher. I research medical imaging and reliable AI, build software at HabariPay (GTCO), and founded [AidCare](https://aidcare.pidoxy.com), a clinical decision-support platform for frontline care. I also teach AI for Software Engineering at The AI Colony.
+Software engineer and AI researcher. I research medical imaging and reliable AI, build software at HabariPay (GTCO), and founded [AidCare](https://aidcare.pidoxy.com), a clinical decision-support platform for frontline care. I also teach [AI for Software Engineering](https://www.theaicolonyacademy.com/courses/ai-for-swe) at The AI Colony.
 
 ## Research
 
